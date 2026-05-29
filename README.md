@@ -7,4 +7,4 @@ Guide:
 3-Run the game and use it, good luck :P
 
 note: you can change the keybind in game setting:
-Settings > Options > Controls > Key Binds > Miscellaneous Category > Free Look
+Settings > Options > Controls > Key Binds > Miscellaneous Category > rqu Free Look
